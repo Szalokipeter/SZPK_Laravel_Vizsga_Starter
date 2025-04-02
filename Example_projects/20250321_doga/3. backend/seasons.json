@@ -1,0 +1,52 @@
+[
+    {
+        "_id": 1,
+        "season": "first",
+        "years": "1994-1995"
+    },
+    {
+        "_id": 2,
+        "season": "second",
+        "years": "1995-1996"
+    },
+    {
+        "_id": 3,
+        "season": "third",
+        "years": "1996-1997"
+    },
+    {
+        "_id": 4,
+        "season": "fourth",
+        "years": "1997-1998"
+    },
+    {
+        "_id": 5,
+        "season": "fifth",
+        "years": "1998-1999"
+    },
+    {
+        "_id": 6,
+        "season": "sixth",
+        "years": "1999-2000"
+    },
+    {
+        "_id": 7,
+        "season": "seventh",
+        "years": "2000-2001"
+    },
+    {
+        "_id": 8,
+        "season": "eighth",
+        "years": "2001-2002"
+    },
+    {
+        "_id": 9,
+        "season": "ninth",
+        "years": "2002-2003"
+    },
+    {
+        "_id": 10,
+        "season": "tenth",
+        "years": "2003-2004"
+    }
+]

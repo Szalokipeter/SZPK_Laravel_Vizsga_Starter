@@ -1,0 +1,45 @@
+### 5. feladat
+GET http://localhost:8000/api/missions/1
+Accept: application/json
+
+### 6. feladat
+GET http://localhost:8000/api/missions
+Accept: application/json
+
+### 7. feladat
+POST http://localhost:8000/api/missions
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "Apollo 13",
+    "agency_id": 1,
+    "launch_date": "1970-04-11"
+}
+
+### 8. feladat
+GET http://localhost:8000/api/commanders
+Accept: application/json
+
+### 9. feladat
+POST http://localhost:8000/api/commanders
+Accept: application/json
+Content-Type: application/json
+
+{
+    "commander_name": "James Lovell",
+    "mission_id": 22,
+    "experience_years": 4
+}
+
+### 10. feladat
+GET http://localhost:8000/api/commanders/count
+Accept: application/json
+
+### 11. feladat
+GET http://localhost:8000/api/agency-missions
+Accept: application/json
+
+### 12. feladat
+DELETE http://localhost:8000/api/missions/23
+Accept: application/json
